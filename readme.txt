@@ -1,3 +1,8 @@
+Authors: 
+Luisa Burkl - Fraunhofer IPT, Aachen
+Iakovos Amygdalos - University Hospital RWTH Aachen
+
+
 1. Install Anaconda3, create virtual environment and install following packages:
 
 conda create --name name
